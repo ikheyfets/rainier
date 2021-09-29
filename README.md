@@ -1,2 +1,2 @@
-# rainier
-Predicting success of Mt. Rainier summit attempt
+# Predicting success of Mt. Rainier summit attempt
+
