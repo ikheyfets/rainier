@@ -2,7 +2,7 @@
 
 ### Motivation:
 
-As an avid outdoorsman, I'm always looking for my next adventure, the first time I visited the PNW and saw Rainier I knew I had to climb it! And as a data scientist, I have decided to build apply my knowledge to build a model that would predict my success at a summit, while I'm mentally and physically training for it. 
+As an avid outdoorsman, I'm always looking for my next adventure. The first time I visited the PNW and saw Rainier I knew I had to climb it! And as a data scientist, I have decided to apply my knowledge to build a model that would predict my success at a summit, while I'm mentally and physically training for it. 
 
 ### Dataset:
 
